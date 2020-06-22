@@ -1,0 +1,13 @@
+D:\Thiago\Projetos\C#\AulaPOOStatic\obj\Debug\netcoreapp3.1\AulaPOOStatic.csprojAssemblyReference.cache
+D:\Thiago\Projetos\C#\AulaPOOStatic\obj\Debug\netcoreapp3.1\AulaPOOStatic.csproj.CoreCompileInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOStatic\obj\Debug\netcoreapp3.1\AulaPOOStatic.AssemblyInfoInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOStatic\obj\Debug\netcoreapp3.1\AulaPOOStatic.AssemblyInfo.cs
+D:\Thiago\Projetos\C#\AulaPOOStatic\bin\Debug\netcoreapp3.1\AulaPOOStatic.exe
+D:\Thiago\Projetos\C#\AulaPOOStatic\bin\Debug\netcoreapp3.1\AulaPOOStatic.deps.json
+D:\Thiago\Projetos\C#\AulaPOOStatic\bin\Debug\netcoreapp3.1\AulaPOOStatic.runtimeconfig.json
+D:\Thiago\Projetos\C#\AulaPOOStatic\bin\Debug\netcoreapp3.1\AulaPOOStatic.runtimeconfig.dev.json
+D:\Thiago\Projetos\C#\AulaPOOStatic\bin\Debug\netcoreapp3.1\AulaPOOStatic.dll
+D:\Thiago\Projetos\C#\AulaPOOStatic\bin\Debug\netcoreapp3.1\AulaPOOStatic.pdb
+D:\Thiago\Projetos\C#\AulaPOOStatic\obj\Debug\netcoreapp3.1\AulaPOOStatic.dll
+D:\Thiago\Projetos\C#\AulaPOOStatic\obj\Debug\netcoreapp3.1\AulaPOOStatic.pdb
+D:\Thiago\Projetos\C#\AulaPOOStatic\obj\Debug\netcoreapp3.1\AulaPOOStatic.genruntimeconfig.cache
